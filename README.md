@@ -70,3 +70,6 @@ The repository for this project includes the code for building and training the 
 - **Usage**: How to use the trained model to make predictions on new handwritten digit images.
 
 By following the instructions in the repository, users can easily replicate the results, modify the architecture, or apply the model to different datasets.
+
+Outputs:
+https://github.com/komalmogal16/DEEP-LEARNING-PROJECT/issues/1
