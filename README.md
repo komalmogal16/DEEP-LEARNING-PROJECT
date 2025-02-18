@@ -59,7 +59,7 @@ The MNIST digit classification model can be used in various applications, such a
 
 4. **Education**: Helping students or practitioners understand the basics of image classification, CNNs, and deep learning in general.
 
-#### GitHub Repository Description
+#### Repository Description
 
 The repository for this project includes the code for building and training the CNN model on the MNIST dataset, as well as documentation on how to use and modify the code. It provides a detailed explanation of the steps involved, from loading and preprocessing the dataset to building, training, and evaluating the model. The repository also includes:
 
